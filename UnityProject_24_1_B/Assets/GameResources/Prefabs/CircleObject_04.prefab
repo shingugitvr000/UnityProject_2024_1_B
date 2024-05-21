@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 99af7d77d50c5284bb08ac3f2d147a9f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.990566, g: 0.990566, b: 0.990566, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -164,3 +164,6 @@ MonoBehaviour:
   isDrag: 0
   isUsed: 0
   index: 4
+  EndTime: 0
+  spriteRenderer: {fileID: 0}
+  gameManager: {fileID: 0}
